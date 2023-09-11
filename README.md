@@ -1,8 +1,8 @@
 # Point-of-Sale-Data-Cleaning
 
 This set of Python notebooks shows the entire end-to-end data pipeline that was used for the analysis of the research paper
-Bachmann et al. (2023) "A Temporary VAT Cut as Unconventional Fiscal Policy" https://sites.nd.edu/rbachman/files/2023/04/BBGKLW_current.pdf
-See https://bfi.uchicago.edu/insight/finding/a-temporary-vat-cut-as-unconventional-fiscal-policy/ for a summary about the paper
+Bachmann et al. (2023) "A Temporary VAT Cut as Unconventional Fiscal Policy" (https://sites.nd.edu/rbachman/files/2023/04/BBGKLW_current.pdf)
+https://bfi.uchicago.edu/insight/finding/a-temporary-vat-cut-as-unconventional-fiscal-policy/ for a summary about the paper
 
 Goal: To create a data frame that has one record per household and most importantly aggregates all point-of-sale FMCG expenditures of German households 
 in the 2nd half of 2020. Our original file is a CSV file that contains millions of point-of-sale transactions of FMCG goods by German households from the
