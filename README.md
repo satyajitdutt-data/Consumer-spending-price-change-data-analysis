@@ -1,4 +1,4 @@
-# Point-of-Sale-Data-Cleaning
+Data pipeline file description
 
 This set of Python notebooks shows the entire end-to-end data pipeline that was used for the analysis of the research paper
 Bachmann et al. (2023) "A Temporary VAT Cut as Unconventional Fiscal Policy" 
