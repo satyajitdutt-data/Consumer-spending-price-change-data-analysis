@@ -1,4 +1,4 @@
-![Dashboard](https://github.com/satyajitdutt-data/Consumer-spending-price-change-data-analysis/blob/main/Dashboard.png){width=300px height=200px}
+![Dashboard](https://github.com/satyajitdutt-data/Consumer-spending-price-change-data-analysis/blob/main/Dashboard.png){width=100px height=100px}
 
 This set of Python notebooks shows the entire end-to-end data pipeline that was used for the analysis of the research paper
 Bachmann et al. (2023) "A Temporary VAT Cut as Unconventional Fiscal Policy" 
