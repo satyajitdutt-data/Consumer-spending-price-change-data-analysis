@@ -1,4 +1,4 @@
-<img src="Dashboard" width="100" height="100" alt="Dashboard summary">
+<img src="Dashboard" width="100" height="100">
 
 This set of Python notebooks shows the entire end-to-end data pipeline that was used for the analysis of the research paper
 Bachmann et al. (2023) "A Temporary VAT Cut as Unconventional Fiscal Policy" 
