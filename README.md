@@ -5,7 +5,5 @@ This repository consists of a dashboard that summarises the fast moving good exp
 - Households experienced an overall median drop of 2.4% in their fast moving good price basket
 - 65% of these households surveyed in 2021 January perceived that prices fell in 2020 H2 
 
-In addition, this repository consists of a set of Python notebooks shows the entire end-to-end data pipeline that was used for the analysis of the research paper Bachmann et al. (2023) "A Temporary VAT Cut as Unconventional Fiscal Policy". See https://shorturl.at/blyIT
-
-The goal was to create a data frame that has one record per household and most importantly aggregates all point-of-sale FMCG expenditures of German households in 20290 H2. The original file is a CSV file that contains millions of point-of-sale transactions of FMCG goods by German households from theGerman market research firm, GfK. 
+In addition, this repository consists of a set of Python notebooks shows the entire end-to-end data pipeline that was used for the analysis of the research paper Bachmann et al. (2023) "A Temporary VAT Cut as Unconventional Fiscal Policy". See https://shorturl.at/blyIT. The goal was to create a data frame that has one record per household and most importantly aggregates all point-of-sale FMCG expenditures of German households in 2020 H2. The original file is a CSV file that contains millions of point-of-sale transactions of FMCG goods by German households from theGerman market research firm, GfK. 
 
