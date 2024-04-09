@@ -7,4 +7,4 @@ This repository consists of a dashboard that summarises the fast moving consumer
 
 In addition, this repository consists of a set of Python notebooks shows the entire end-to-end data pipeline used for the dashboard above. The goal was to create a data frame that has one record per German household with the computed FMCG price basket. 
 
-This analysis was also used in part in the academic research paper in [Bachmann et al. (2023)](https://bfi.uchicago.edu/insight/research-summary/a-temporary-vat-cut-as-unconventional-fiscal-policy/) for which I provided assistance.
+The data in this paper was also used in the academic research paper in [Bachmann et al. (2023)](https://bfi.uchicago.edu/insight/research-summary/a-temporary-vat-cut-as-unconventional-fiscal-policy/)
