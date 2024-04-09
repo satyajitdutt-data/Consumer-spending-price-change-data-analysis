@@ -5,6 +5,6 @@ This repository consists of a dashboard that summarises the fast moving consumer
 - Households experienced an overall median drop of 2.4% in their FMCG price basket
 - 65% of these households surveyed in 2021 January perceived that overall prices fell in 2020 H2 
 
-In addition, this repository consists of a set of Python notebooks shows the entire end-to-end data pipeline used for the dashboard above. The goal was to create a data frame that has one record per German household with the computed FMCG price basket. 
+In addition, this repository consists of a set of Python notebooks shows the entire end-to-end data pipeline used for the dashboard above. 
 
 The data in this paper was also used in the academic research paper in [Bachmann et al. (2023)](https://bfi.uchicago.edu/insight/research-summary/a-temporary-vat-cut-as-unconventional-fiscal-policy/)
