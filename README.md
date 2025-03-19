@@ -7,4 +7,4 @@ This repository consists of a dashboard that summarises the fast moving consumer
 
 In addition, this repository consists of a set of Python notebooks shows the entire end-to-end data pipeline used for the dashboard above. 
 
-The data in this paper was also used in the academic research paper in [Bachmann et al. (2023)](https://bfi.uchicago.edu/insight/research-summary/a-temporary-vat-cut-as-unconventional-fiscal-policy/)
+The data in this paper was also used in the academic research paper in [Bachmann et al. (2024)](https://bfi.uchicago.edu/insight/research-summary/a-temporary-vat-cut-as-unconventional-fiscal-policy/)
